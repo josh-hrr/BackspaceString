@@ -4,7 +4,7 @@ class Main {
   public static void main(String[] args) { 
     String s = "ab#c";
     String t = "ad#c";
-    System.out.println(backspaceCompare(s, t));
+    System.out.println(backspaceCompare(s, t)); 
   }
 
   public static boolean backspaceCompare(String s, String t) {
@@ -70,3 +70,5 @@ class Main {
         return testingComp;
     }
 }
+
+
