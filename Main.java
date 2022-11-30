@@ -1,6 +1,6 @@
 import java.util.ArrayList; 
 
-class Main {
+class Main { 
   public static void main(String[] args) { 
     String s = "ab#c";
     String t = "ad#c";
